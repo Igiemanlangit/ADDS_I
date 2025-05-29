@@ -6,6 +6,7 @@
         "__split_buffer": "cpp",
         "locale": "cpp",
         "new": "cpp",
-        "typeinfo": "cpp"
+        "typeinfo": "cpp",
+        "iostream": "cpp"
     }
 }
